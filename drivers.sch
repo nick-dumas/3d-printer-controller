@@ -1,0 +1,554 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 3 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L 3d-printer-controller:GND #PWR0159
+U 1 1 5E0409D7
+P 3100 3350
+F 0 "#PWR0159" H 3100 3100 50  0001 C CNN
+F 1 "GND" H 3105 3177 50  0000 C CNN
+F 2 "" H 3100 3350 50  0001 C CNN
+F 3 "" H 3100 3350 50  0001 C CNN
+	1    3100 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:GND #PWR0160
+U 1 1 5E0409E4
+P 4100 3700
+F 0 "#PWR0160" H 4100 3450 50  0001 C CNN
+F 1 "GND" H 4105 3527 50  0000 C CNN
+F 2 "" H 4100 3700 50  0001 C CNN
+F 3 "" H 4100 3700 50  0001 C CNN
+	1    4100 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:GND #PWR0161
+U 1 1 5E0409F0
+P 4500 3550
+F 0 "#PWR0161" H 4500 3300 50  0001 C CNN
+F 1 "GND" H 4505 3377 50  0000 C CNN
+F 2 "" H 4500 3550 50  0001 C CNN
+F 3 "" H 4500 3550 50  0001 C CNN
+	1    4500 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:GND #PWR0162
+U 1 1 5E0409FE
+P 3000 4850
+F 0 "#PWR0162" H 3000 4600 50  0001 C CNN
+F 1 "GND" H 3005 4677 50  0000 C CNN
+F 2 "" H 3000 4850 50  0001 C CNN
+F 3 "" H 3000 4850 50  0001 C CNN
+	1    3000 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:GND #PWR0163
+U 1 1 5E040A0B
+P 4000 5200
+F 0 "#PWR0163" H 4000 4950 50  0001 C CNN
+F 1 "GND" H 4005 5027 50  0000 C CNN
+F 2 "" H 4000 5200 50  0001 C CNN
+F 3 "" H 4000 5200 50  0001 C CNN
+	1    4000 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:GND #PWR0164
+U 1 1 5E040A17
+P 4500 5050
+F 0 "#PWR0164" H 4500 4800 50  0001 C CNN
+F 1 "GND" H 4505 4877 50  0000 C CNN
+F 2 "" H 4500 5050 50  0001 C CNN
+F 3 "" H 4500 5050 50  0001 C CNN
+	1    4500 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:GND #PWR0165
+U 1 1 5E040A24
+P 5600 3350
+F 0 "#PWR0165" H 5600 3100 50  0001 C CNN
+F 1 "GND" H 5605 3177 50  0000 C CNN
+F 2 "" H 5600 3350 50  0001 C CNN
+F 3 "" H 5600 3350 50  0001 C CNN
+	1    5600 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:GND #PWR0166
+U 1 1 5E040A31
+P 6600 3700
+F 0 "#PWR0166" H 6600 3450 50  0001 C CNN
+F 1 "GND" H 6605 3527 50  0000 C CNN
+F 2 "" H 6600 3700 50  0001 C CNN
+F 3 "" H 6600 3700 50  0001 C CNN
+	1    6600 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:GND #PWR0167
+U 1 1 5E040A3D
+P 7000 3550
+F 0 "#PWR0167" H 7000 3300 50  0001 C CNN
+F 1 "GND" H 7005 3377 50  0000 C CNN
+F 2 "" H 7000 3550 50  0001 C CNN
+F 3 "" H 7000 3550 50  0001 C CNN
+	1    7000 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:R R22
+U 1 1 5E040A44
+P 5650 4850
+F 0 "R22" V 5750 4850 50  0000 C CNN
+F 1 "1k" V 5534 4850 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5580 4850 50  0001 C CNN
+F 3 "~" H 5650 4850 50  0001 C CNN
+	1    5650 4850
+	0    1    1    0   
+$EndComp
+$Comp
+L 3d-printer-controller:GND #PWR0168
+U 1 1 5E040A4A
+P 5500 4850
+F 0 "#PWR0168" H 5500 4600 50  0001 C CNN
+F 1 "GND" H 5505 4677 50  0000 C CNN
+F 2 "" H 5500 4850 50  0001 C CNN
+F 3 "" H 5500 4850 50  0001 C CNN
+	1    5500 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:GND #PWR0169
+U 1 1 5E040A57
+P 6500 5200
+F 0 "#PWR0169" H 6500 4950 50  0001 C CNN
+F 1 "GND" H 6505 5027 50  0000 C CNN
+F 2 "" H 6500 5200 50  0001 C CNN
+F 3 "" H 6500 5200 50  0001 C CNN
+	1    6500 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:GND #PWR0170
+U 1 1 5E040A63
+P 7000 5050
+F 0 "#PWR0170" H 7000 4800 50  0001 C CNN
+F 1 "GND" H 7005 4877 50  0000 C CNN
+F 2 "" H 7000 5050 50  0001 C CNN
+F 3 "" H 7000 5050 50  0001 C CNN
+	1    7000 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:VFAN #PWR0171
+U 1 1 5E040A9C
+P 4100 2850
+F 0 "#PWR0171" H 4100 2350 50  0001 C CNN
+F 1 "VFAN" H 4115 3023 50  0000 C CNN
+F 2 "" H 4100 2850 50  0001 C CNN
+F 3 "" H 4100 2850 50  0001 C CNN
+	1    4100 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:VHEAT #PWR0172
+U 1 1 5E040AA2
+P 6600 2850
+F 0 "#PWR0172" H 6600 2350 50  0001 C CNN
+F 1 "VHEAT" H 6615 3023 50  0000 C CNN
+F 2 "" H 6600 2850 50  0001 C CNN
+F 3 "" H 6600 2850 50  0001 C CNN
+	1    6600 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:VHEAT #PWR0173
+U 1 1 5E040AA8
+P 6500 4350
+F 0 "#PWR0173" H 6500 3850 50  0001 C CNN
+F 1 "VHEAT" H 6515 4523 50  0000 C CNN
+F 2 "" H 6500 4350 50  0001 C CNN
+F 3 "" H 6500 4350 50  0001 C CNN
+	1    6500 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:VHEAT #PWR0174
+U 1 1 5E040AAE
+P 4000 4350
+F 0 "#PWR0174" H 4000 3850 50  0001 C CNN
+F 1 "VHEAT" H 4015 4523 50  0000 C CNN
+F 2 "" H 4000 4350 50  0001 C CNN
+F 3 "" H 4000 4350 50  0001 C CNN
+	1    4000 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:VFAN #PWR0175
+U 1 1 5E040ABA
+P 4500 3050
+F 0 "#PWR0175" H 4500 2550 50  0001 C CNN
+F 1 "VFAN" H 4515 3223 50  0000 C CNN
+F 2 "" H 4500 3050 50  0001 C CNN
+F 3 "" H 4500 3050 50  0001 C CNN
+	1    4500 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:VHEAT #PWR0176
+U 1 1 5E040AC6
+P 7000 3050
+F 0 "#PWR0176" H 7000 2550 50  0001 C CNN
+F 1 "VHEAT" H 7015 3223 50  0000 C CNN
+F 2 "" H 7000 3050 50  0001 C CNN
+F 3 "" H 7000 3050 50  0001 C CNN
+	1    7000 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:VFAN #PWR0177
+U 1 1 5E040AD8
+P 4500 4550
+F 0 "#PWR0177" H 4500 4050 50  0001 C CNN
+F 1 "VFAN" H 4515 4723 50  0000 C CNN
+F 2 "" H 4500 4550 50  0001 C CNN
+F 3 "" H 4500 4550 50  0001 C CNN
+	1    4500 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:VHEAT #PWR0178
+U 1 1 5E040ADE
+P 7000 4550
+F 0 "#PWR0178" H 7000 4050 50  0001 C CNN
+F 1 "VHEAT" H 7015 4723 50  0000 C CNN
+F 2 "" H 7000 4550 50  0001 C CNN
+F 3 "" H 7000 4550 50  0001 C CNN
+	1    7000 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:IRFB7546PBF Q1
+U 1 1 5DED6EC6
+P 4400 4850
+AR Path="/5DED6EC6" Ref="Q1"  Part="1" 
+AR Path="/5E03BF73/5DED6EC6" Ref="Q1"  Part="1" 
+F 0 "Q1" H 4604 4896 50  0000 L CNN
+F 1 "IRFB7546PBF" H 4604 4805 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 4600 4950 50  0001 C CNN
+F 3 "https://au.mouser.com/datasheet/2/196/irfb7546pbf-1228428.pdf" H 4400 4850 50  0001 C CNN
+	1    4400 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:IRFB7546PBF Q3
+U 1 1 5DED8742
+P 6900 4850
+AR Path="/5DED8742" Ref="Q3"  Part="1" 
+AR Path="/5E03BF73/5DED8742" Ref="Q3"  Part="1" 
+F 0 "Q3" H 7104 4896 50  0000 L CNN
+F 1 "IRFB7546PBF" H 7104 4805 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 7100 4950 50  0001 C CNN
+F 3 "https://au.mouser.com/datasheet/2/196/irfb7546pbf-1228428.pdf" H 6900 4850 50  0001 C CNN
+	1    6900 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:IRFB7546PBF Q4
+U 1 1 5DED9199
+P 6900 3350
+AR Path="/5DED9199" Ref="Q4"  Part="1" 
+AR Path="/5E03BF73/5DED9199" Ref="Q4"  Part="1" 
+F 0 "Q4" H 7104 3396 50  0000 L CNN
+F 1 "IRFB7546PBF" H 7104 3305 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 7100 3450 50  0001 C CNN
+F 3 "https://au.mouser.com/datasheet/2/196/irfb7546pbf-1228428.pdf" H 6900 3350 50  0001 C CNN
+	1    6900 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:IRFB7546PBF Q2
+U 1 1 5DED9BF0
+P 4400 3350
+AR Path="/5DED9BF0" Ref="Q2"  Part="1" 
+AR Path="/5E03BF73/5DED9BF0" Ref="Q2"  Part="1" 
+F 0 "Q2" H 4604 3396 50  0000 L CNN
+F 1 "IRFB7546PBF" H 4604 3305 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 4600 3450 50  0001 C CNN
+F 3 "https://au.mouser.com/datasheet/2/196/irfb7546pbf-1228428.pdf" H 4400 3350 50  0001 C CNN
+	1    4400 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:TPC817B_C9G U2
+U 1 1 5DF7DA30
+P 3600 4750
+F 0 "U2" H 3600 5075 50  0000 C CNN
+F 1 "TPC817B_C9G" H 3600 4984 50  0000 C CNN
+F 2 "Package_DIP:DIP-4_W7.62mm_Socket" H 3400 4550 50  0001 L CIN
+F 3 "https://au.mouser.com/datasheet/2/395/TPC817%20SERIES_C1612-1114502.pdf" H 3600 4750 50  0001 L CNN
+	1    3600 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:TPC817B_C9G U3
+U 1 1 5DF7DDDC
+P 3700 3250
+F 0 "U3" H 3700 3567 50  0000 C CNN
+F 1 "TPC817B_C9G" H 3700 3476 50  0000 C CNN
+F 2 "Package_DIP:DIP-4_W7.62mm_Socket" H 3500 3050 50  0001 L CIN
+F 3 "https://au.mouser.com/datasheet/2/395/TPC817%20SERIES_C1612-1114502.pdf" H 3700 3250 50  0001 L CNN
+	1    3700 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:TPC817B_C9G U4
+U 1 1 5DF55073
+P 6100 4750
+F 0 "U4" H 6100 5067 50  0000 C CNN
+F 1 "TPC817B_C9G" H 6100 4976 50  0000 C CNN
+F 2 "Package_DIP:DIP-4_W7.62mm_Socket" H 6100 4450 50  0001 C CNN
+F 3 "https://au.mouser.com/datasheet/2/395/TPC817%20SERIES_C1612-1114502.pdf" H 6150 4750 50  0001 C CNN
+	1    6100 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:Conn_01x02 J23
+U 1 1 5DF5CCA9
+P 7200 3050
+F 0 "J23" H 7280 3042 50  0000 L CNN
+F 1 "HEAT0" H 7280 2951 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 7200 3050 50  0001 C CNN
+F 3 "~" H 7200 3050 50  0001 C CNN
+	1    7200 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:Conn_01x02 J22
+U 1 1 5DF5DAD3
+P 7200 4550
+F 0 "J22" H 7280 4542 50  0000 L CNN
+F 1 "HEAT1" H 7280 4451 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 7200 4550 50  0001 C CNN
+F 3 "~" H 7200 4550 50  0001 C CNN
+	1    7200 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:Conn_01x02 J20
+U 1 1 5DF5E8A0
+P 4700 4550
+F 0 "J20" H 4780 4542 50  0000 L CNN
+F 1 "FAN1" H 4780 4451 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4700 4550 50  0001 C CNN
+F 3 "~" H 4700 4550 50  0001 C CNN
+	1    4700 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:Conn_01x02 J21
+U 1 1 5DF5FA45
+P 4700 3050
+F 0 "J21" H 4780 3042 50  0000 L CNN
+F 1 "FAN0" H 4780 2951 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4700 3050 50  0001 C CNN
+F 3 "~" H 4700 3050 50  0001 C CNN
+	1    4700 3050
+	1    0    0    -1  
+$EndComp
+Text HLabel 3400 3150 0    50   Input ~ 0
+FAN0_PWM
+Text HLabel 3300 4650 0    50   Input ~ 0
+FAN1_PWM
+Text HLabel 5800 4650 0    50   Input ~ 0
+HEAT1_PWM
+Text HLabel 5900 3150 0    50   Input ~ 0
+HEAT0_PWM
+$Comp
+L 3d-printer-controller:R R26
+U 1 1 5DF62F00
+P 6500 4500
+F 0 "R26" H 6430 4454 50  0000 R CNN
+F 1 "270" H 6430 4545 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6430 4500 50  0001 C CNN
+F 3 "~" H 6500 4500 50  0001 C CNN
+	1    6500 4500
+	-1   0    0    1   
+$EndComp
+$Comp
+L 3d-printer-controller:R R24
+U 1 1 5DF63B25
+P 6500 5050
+F 0 "R24" H 6431 5096 50  0000 R CNN
+F 1 "1k" H 6431 5005 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6430 5050 50  0001 C CNN
+F 3 "~" H 6500 5050 50  0001 C CNN
+	1    6500 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:R R18
+U 1 1 5DF644B0
+P 4000 5050
+F 0 "R18" H 3931 5096 50  0000 R CNN
+F 1 "1k" H 3931 5005 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3930 5050 50  0001 C CNN
+F 3 "~" H 4000 5050 50  0001 C CNN
+	1    4000 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:R R20
+U 1 1 5DF64E3B
+P 4000 4500
+F 0 "R20" H 3930 4454 50  0000 R CNN
+F 1 "270" H 3930 4545 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3930 4500 50  0001 C CNN
+F 3 "~" H 4000 4500 50  0001 C CNN
+	1    4000 4500
+	-1   0    0    1   
+$EndComp
+$Comp
+L 3d-printer-controller:R R16
+U 1 1 5DF657FA
+P 3150 4850
+F 0 "R16" V 3250 4850 50  0000 C CNN
+F 1 "560" V 3034 4850 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3080 4850 50  0001 C CNN
+F 3 "~" H 3150 4850 50  0001 C CNN
+	1    3150 4850
+	0    1    1    0   
+$EndComp
+$Comp
+L 3d-printer-controller:R R17
+U 1 1 5DF661B9
+P 3250 3350
+F 0 "R17" V 3350 3350 50  0000 C CNN
+F 1 "560" V 3134 3350 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3180 3350 50  0001 C CNN
+F 3 "~" H 3250 3350 50  0001 C CNN
+	1    3250 3350
+	0    1    1    0   
+$EndComp
+$Comp
+L 3d-printer-controller:R R21
+U 1 1 5DF66BCE
+P 4100 3000
+F 0 "R21" H 4030 2954 50  0000 R CNN
+F 1 "270" H 4030 3045 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4030 3000 50  0001 C CNN
+F 3 "~" H 4100 3000 50  0001 C CNN
+	1    4100 3000
+	-1   0    0    1   
+$EndComp
+$Comp
+L 3d-printer-controller:R R19
+U 1 1 5DF6758D
+P 4100 3550
+F 0 "R19" H 4031 3596 50  0000 R CNN
+F 1 "1k" H 4031 3505 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4030 3550 50  0001 C CNN
+F 3 "~" H 4100 3550 50  0001 C CNN
+	1    4100 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3d-printer-controller:R R23
+U 1 1 5DF67F18
+P 5750 3350
+F 0 "R23" V 5850 3350 50  0000 C CNN
+F 1 "560" V 5634 3350 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 3350 50  0001 C CNN
+F 3 "~" H 5750 3350 50  0001 C CNN
+	1    5750 3350
+	0    1    1    0   
+$EndComp
+$Comp
+L 3d-printer-controller:R R25
+U 1 1 5DF69296
+P 6600 3550
+F 0 "R25" H 6531 3596 50  0000 R CNN
+F 1 "1k" H 6531 3505 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6530 3550 50  0001 C CNN
+F 3 "~" H 6600 3550 50  0001 C CNN
+	1    6600 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4000 3350 4100 3350
+Wire Wire Line
+	4000 3150 4100 3150
+Wire Wire Line
+	4100 3400 4100 3350
+Connection ~ 4100 3350
+Wire Wire Line
+	4100 3350 4200 3350
+$Comp
+L 3d-printer-controller:TPC817B_C9G U5
+U 1 1 5DF7EB1F
+P 6200 3250
+F 0 "U5" H 6200 3567 50  0000 C CNN
+F 1 "TPC817B_C9G" H 6200 3476 50  0000 C CNN
+F 2 "Package_DIP:DIP-4_W7.62mm_Socket" H 6000 3050 50  0001 L CIN
+F 3 "https://au.mouser.com/datasheet/2/395/TPC817%20SERIES_C1612-1114502.pdf" H 6200 3250 50  0001 L CNN
+	1    6200 3250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6600 3350 6600 3400
+Wire Wire Line
+	6700 3350 6600 3350
+Connection ~ 6600 3350
+Wire Wire Line
+	6600 3350 6500 3350
+Wire Wire Line
+	6600 3150 6500 3150
+Wire Wire Line
+	6500 4650 6400 4650
+Wire Wire Line
+	6400 4850 6500 4850
+Wire Wire Line
+	6500 4900 6500 4850
+Connection ~ 6500 4850
+Wire Wire Line
+	6500 4850 6700 4850
+Wire Wire Line
+	4000 4650 3900 4650
+Wire Wire Line
+	4200 4850 4000 4850
+Wire Wire Line
+	4000 4900 4000 4850
+Connection ~ 4000 4850
+Wire Wire Line
+	4000 4850 3900 4850
+Text Notes 4050 5800 0    50   ~ 0
+@24V, 15A: VGS=19, RDS=8m, P=1.8W, Tamb~~+100, needs small heatsink\n@12V, 15A: VGS=9.5, RDS=8m, P=1.8W, Tamb~~+100, needs small heatsink\n@5V, 1A: VGS=3.9, RDS~~700m, P=.7, Tamb~~+42, all good
+$Comp
+L 3d-printer-controller:R R27
+U 1 1 5DF688D7
+P 6600 3000
+F 0 "R27" H 6530 2954 50  0000 R CNN
+F 1 "270" H 6530 3045 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6530 3000 50  0001 C CNN
+F 3 "~" H 6600 3000 50  0001 C CNN
+	1    6600 3000
+	-1   0    0    1   
+$EndComp
+$EndSCHEMATC

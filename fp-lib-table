@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name 3d-printer-controller)(type KiCad)(uri ${KIPRJMOD}/3d-printer-controller.pretty)(options "")(descr "Local project"))
+)

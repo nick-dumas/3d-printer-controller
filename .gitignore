@@ -1,0 +1,23 @@
+# For PCBs designed using KiCad: http://www.kicad-pcb.org/
+# Format documentation: http://kicad-pcb.org/help/file-formats/
+
+# Temporary files
+*.000
+*~
+*.tmp
+
+# Backup files
+*.bck
+*.bak
+*-save.kicad_pcb
+*.kicad_pcb-bak
+*.sch-bak
+_autosave-*
+*-save.pro
+
+# Unnecessary files
+*-cache.lib
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses

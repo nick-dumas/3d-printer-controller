@@ -1,0 +1,19 @@
+This project is a 3D printer controller board.
+
+The goals are (in the following order):
+ * Safety (No electrical/fire hazards)
+ * Print quality on par with the Duet
+ * Modularity on par with ramps
+ * Hobbiest level assembly difficulty
+ * Cheap
+
+It is intended to be used with a 24v LED strip switching PSU, as well as an external 5v buck-boost regulator.
+
+Currently licensed under:
+ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+ http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+This means share-alike, non-commercial.
+I plan to release this under a open MIT license once the project is built and complete.
+I would also appreciate if you let me know if and how you are using this project. 
+
